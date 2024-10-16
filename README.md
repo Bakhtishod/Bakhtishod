@@ -19,7 +19,7 @@
 ![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
 # **GitHub Stats:**
-![](https://github-readme-stats.vercel.app/api?username=Bakhtishod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Bakhtishod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtishod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
