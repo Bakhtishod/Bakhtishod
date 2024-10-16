@@ -1,10 +1,32 @@
-## Hi there 👋
+# About Me:
 
-As an experienced Flutter developer with over two years of expertise in crafting cross-platform mobile applications, I possess a proficient grasp of the Dart programming language, which forms the foundation of the Flutter framework. My knowledge extends to fundamental computer science principles, the software development life cycle, and various design patterns.
+**Full name:** Bakhtishod Umurzokov
+**Education:** Eötvös Loránd University
+**Major:** BSc Computer Science
+**Experience:** AIVA Group 🇲🇩
 
-Driven by a fervent desire to explore emerging technologies and push the boundaries of what Flutter can achieve, I eagerly embrace new challenges and relish the opportunity to devise innovative solutions to intricate problems. I am actively seeking collaborations with fellow Flutter enthusiasts to contribute to the thriving Flutter community.
+# **Skills & Technologies:**
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%23007396.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 
-Should you be interested in leveraging my skills and passion for Flutter development, I invite you to reach out. Your inquiries are warmly welcomed, and I am eager to explore potential collaborations with you.
+# **GitHub Stats:**
+![](https://github-readme-stats.vercel.app/api?username=Bakhtishod&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Bakhtishod&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtishod&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bakhtishod&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bakhtishod&layout=donut)](https://github.com/Bakhtishod/github-readme-stats)
+# **Random quote:**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Programmer707707&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
