@@ -1,9 +1,9 @@
 # About Me:
 
 **Full name:** Bakhtishod Umurzokov
-<br>**Education:** Eötvös Loránd University
-<br>**Major:** BSc Computer Science
-<br>**Experience:** AIVA Group 🇲🇩
+<br>**Education:** Karlsruhe Institute Für Technologie
+<br>**Major:** MSc Computer Science
+<!-- <br>**Experience:** AIVA Group 🇲🇩 -->
 
 # **Skills & Technologies:**
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
